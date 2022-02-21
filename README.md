@@ -25,8 +25,8 @@ To evaluate object detection models like R-CNN and YOLO, the mean average precis
 
 ![3](https://user-images.githubusercontent.com/65647192/154914243-5cd1e9eb-a6ec-48b4-9232-261c104b4064.jpg)
 
-# Due to less amount of data here i have trained yolov5 for only 8 class detection and confusion matrix look like as 
+Due to less amount of data here i have trained yolov5 for only 8 class detection and confusion matrix for best model from tranied models so far look as below
 
-![classificationreport](https://user-images.githubusercontent.com/65647192/154914789-8c3ad62f-7c92-4c78-8d7e-3b4b295ee63f.png)
+<img src="https://user-images.githubusercontent.com/65647192/154914789-8c3ad62f-7c92-4c78-8d7e-3b4b295ee63f.png" width="500" height="500">
 
-## <p style="color:red">Note: Pretrained weights are confidential. If you need then feel free to reach out for industrial use purpose..</p>
+## -->Note: Pretrained weights are confidential. If you need then feel free to reach out for industrial use purpose..
